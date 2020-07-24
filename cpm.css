@@ -1,0 +1,38 @@
+tr, td {
+	border: 1px solid black;
+	text-align: center;
+}
+
+#grand_titre{
+	margin-left: 300px;
+	margin-top: 10px;
+	font-style: italic;
+}
+
+#notif{
+	margin: 8px;
+	border-radius: 20px;
+	background-color: rgba(225,0,0,0.4);
+	font-size: 18px;
+	text-align: center;
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;padding: 5px;
+}
+
+.titre_action{
+	margin-left: 500px;
+	margin-top: 25px;
+	font-size: 20px;
+	font-style: italic;
+}
+
+.marge{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+.cell{
+	width: 125px;
+	text-align: center;
+}
